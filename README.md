@@ -1,5 +1,5 @@
 
-This repository contains the set of scripts used to train the VAE model used for the CaloChallenge [Dataset1 pions]().
+This repository contains the set of scripts used to train the VAE model used for the CaloChallenge [Dataset1 pions](https://zenodo.org/records/8099322#:~:text=Download-,dataset_1_pions_1.hdf5,-md5%3A6a5f52722064a1bcd8a0bc002f16515d).
 
 - preprocess.py: defines the data loading and preprocessing functions.
 - gpu_limiter.py: defines a logic responsible for GPU memory management.
